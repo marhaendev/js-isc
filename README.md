@@ -48,7 +48,7 @@ Supported attributes:
 ```
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/marhaendev/js-isc/blob/master/LICENSE)  file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/marhaendev/js-isc/tree/master?tab=MIT-1-ov-file)  file for details.
 
 # Author
 Created by [@marhaendev](https://github.com/marhaendev)
