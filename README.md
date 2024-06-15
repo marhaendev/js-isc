@@ -22,8 +22,7 @@ To integrate this code into your project, follow these steps:
 
 ### CDN
 Include the script in your HTML file
-    ```html
-   <script src="https://cdn.jsdelivr.net/gh/marhaendev/js-isc/isc.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/marhaendev/js-isc/isc.js"></script>
 
 ## Usage
 ### Attributes
