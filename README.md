@@ -29,12 +29,13 @@ Include the script in your HTML file:
 You can customize the behavior of isc by adding data-isc attributes to your HTML container elements.
 
 Supported attributes:
-| Attributes  | Deskripsi                                                                 |
+| Attributes  | Description                                                                 |
 |-------------|---------------------------------------------------------------------------|
-| **Width**   | Menetapkan lebar kontainer gulir (`px` atau `%`).                          |
-| **Height**  | Menetapkan tinggi kontainer gulir (`px`).                                  |
-| **Color**   | Menetapkan warna latar belakang kontainer gulir (`color:random` untuk warna acak atau `color:yourColor` untuk warna tertentu). |
-| **Duration**| Menetapkan durasi animasi gulir horizontal dalam detik.                    |
+| **Width**   | Sets the width of the scroll container (`px` or `%`).                     |
+| **Height**  | Sets the height of the scroll container (`px`).                           |
+| **Color**   | Sets the background color of the scroll container (`color:random` for a random color or `color:yourColor` for a specific color). |
+| **Duration**| Sets the duration of the horizontal scroll animation in seconds.          |
+
 
 ### Example
 ```
