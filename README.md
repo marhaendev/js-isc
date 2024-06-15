@@ -38,6 +38,7 @@ Supported attributes:
 
 
 ### Example
+#### No adjustments
 ```
 <div data-isc>
   <div>Item 1</div>
@@ -47,7 +48,26 @@ Supported attributes:
   <div>Item 5</div>
 </div>
 ```
-
+#### Width
+```
+<div data-isc="width:800"> <!-- 800px -->
+<div data-isc="width:800px"> <!-- 800px -->
+<div data-isc="width:80%"> <!-- 80% -->
+```
+#### Height
+```
+<div data-isc="height:100"> <!-- 100px -->
+<div data-isc="height:100px"> <!-- 100px -->
+```
+#### Color
+```
+<div data-isc="color:random"> <!-- random colors for items -->
+<div data-isc="color:blue"> <!-- blue color for items -->
+```
+#### Duration
+```
+<div data-isc="duration:5"> <!-- 5 seconds -->
+```
 # License
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/marhaendev/js-isc/tree/master?tab=MIT-1-ov-file)  file for details.
 
