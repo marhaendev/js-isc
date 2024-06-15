@@ -17,12 +17,13 @@ To integrate this code into your project, follow these steps:
 ### Local
 1. Download the `isc.js` file and add it to your project directory.
 2. Include the script in your HTML file:
-   ```
+   ```html
    <script src="isc.js"></script>
 
 ### CDN
-Include the script in your HTML file:
-
+Include the script in your HTML file
+    ```html
+   <script src="https://cdn.jsdelivr.net/gh/marhaendev/js-isc/isc.js"></script>
 
 ## Usage
 ### Attributes
